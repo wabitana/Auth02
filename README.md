@@ -2,7 +2,7 @@
 
 A clean, modular **Node.js + Express + MongoDB** REST API demonstrating user **authentication**, **password hashing with `bcrypt`**, **stateless JSON Web Tokens (`jsonwebtoken`)**, and **role-based authorization (`user` / `admin`)**.
 
-> **Reference Repository:** [`github.com/fafiyusuf/auth`](https://github.com/fafiyusuf/auth.git)
+
 
 ---
 
